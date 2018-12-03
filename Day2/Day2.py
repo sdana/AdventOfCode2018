@@ -29,5 +29,3 @@ checksum = two_count * three_count
 print("Twos: " + str(two_count))
 print("Threes: " + str(three_count))
 print("Checksum is " + str(checksum))
-
-matches = []
